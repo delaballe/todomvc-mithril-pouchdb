@@ -6,7 +6,7 @@
 
 > PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
 
-> _[PouchDB] (https://github.com/pouchdb/pouchdb)
+> _[PouchDB](https://github.com/pouchdb/pouchdb)
 
 
 ## Learning Mithril
@@ -28,7 +28,7 @@ The [PouchDB website](http://pouchdb.com/) is a great resource for getting start
 * [API Reference](http://pouchdb.com/api.html)
 * [PouchDB on Github](https://github.com/pouchdb/pouchdb)
 
-_If you have other helpful links to share, or find any of the links above no longer work, please [let me know](https://github.com/jpmonette/todomvc-mithril/issues)._
+_If you have other helpful links to share, or find any of the links above no longer work, please [let me know](https://github.com/delaballe/todomvc-mithril-pouchdb/issues)._
 
 ## Running
 
