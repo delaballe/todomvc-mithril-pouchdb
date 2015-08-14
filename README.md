@@ -1,8 +1,12 @@
-# Mithril TodoMVC Example
+# Mithril + PouchDB TodoMVC Example
 
 > Mithril is a client-side Javascript MVC framework, i.e. it's a tool to make application code divided into a data layer (called "Model"), a UI layer (called View), and a glue layer (called Controller)
 
 > _[Mithril](http://lhorie.github.io/mithril/)_
+
+> PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
+
+> _[PouchDB] (https://github.com/pouchdb/pouchdb)
 
 
 ## Learning Mithril
@@ -14,6 +18,15 @@ Here are some links you may find helpful:
 * [Getting Started](http://lhorie.github.io/mithril/getting-started.html)
 * [API Reference](http://lhorie.github.io/mithril/mithril.html)
 * [Mithril on Github](https://github.com/lhorie/mithril.js)
+
+
+## Learning PouchDB
+
+The [PouchDB website](http://pouchdb.com/) is a great resource for getting started.
+
+* [Getting Started](http://pouchdb.com/getting-started.html)
+* [API Reference](http://pouchdb.com/api.html)
+* [PouchDB on Github](https://github.com/pouchdb/pouchdb)
 
 _If you have other helpful links to share, or find any of the links above no longer work, please [let me know](https://github.com/jpmonette/todomvc-mithril/issues)._
 
