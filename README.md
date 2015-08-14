@@ -6,7 +6,7 @@
 
 > PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser. It enables applications to store data locally while offline, then synchronize it with CouchDB and compatible servers when the application is back online, keeping the user's data in sync no matter where they next login.
 
-> _[PouchDB](https://github.com/pouchdb/pouchdb)
+> _[PouchDB](https://github.com/pouchdb/pouchdb)_
 
 
 ## Learning Mithril
