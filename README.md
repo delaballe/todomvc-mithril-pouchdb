@@ -35,9 +35,9 @@ _If you have other helpful links to share, or find any of the links above no lon
 1. Clone the repo
 2. Execute `bower install` in the repo (make sure yo install `npm`)
 3. Open `index.html`!
-4. Add some tak to your Todo List
-5. Refres the page
-6. See your Task are persistent
+4. Add some Task to your Todo List
+5. Refresh the page
+6. See your Task are now persistent
 
 ## TODO
 
